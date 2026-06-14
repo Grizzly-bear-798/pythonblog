@@ -19,6 +19,9 @@ env/
 # Environment variables
 .env
 
+# Database
+*.db
+
 # OS files
 Thumbs.db
 .DS_Store
